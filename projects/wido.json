@@ -1,0 +1,17 @@
+{
+  "name": "Wido",
+  "slug": "wido",
+  "highlight": "Wido is a Cross-chain Zap Infrastructure",
+  "logo": "/img/wido.png",
+  "tags": ["defi","multi-chain","infrastructure","api","payments","swap","tools","utility"],
+  "status": "live",
+  "website": "https://joinwido.com/",
+  "twitter": "https://twitter.com/widolabs",
+  "summary": "Wido is a Cross-chain Zap Infrastructure. dApps can integrate with Wido to support zaps for staking, swaps, deposits and more. Zaps for new protocols can be created in minutes using Wido no-code tools. Wido zaps work multi-chain, making any transaction single click.",
+  "telegram": "https://t.me/joinwido",
+  "discord": "",
+  "docs":"https://docs.joinwido.com/",
+  "github":"https://github.com/widolabs",
+  "token":"",
+  "cmc": ""
+}
